@@ -1,0 +1,11 @@
+/home/pavel/Documents/psu/pnp-net/01_console/bin/Debug/netcoreapp2.1/01_console.deps.json
+/home/pavel/Documents/psu/pnp-net/01_console/bin/Debug/netcoreapp2.1/01_console.runtimeconfig.json
+/home/pavel/Documents/psu/pnp-net/01_console/bin/Debug/netcoreapp2.1/01_console.runtimeconfig.dev.json
+/home/pavel/Documents/psu/pnp-net/01_console/bin/Debug/netcoreapp2.1/01_console.dll
+/home/pavel/Documents/psu/pnp-net/01_console/bin/Debug/netcoreapp2.1/01_console.pdb
+/home/pavel/Documents/psu/pnp-net/01_console/obj/Debug/netcoreapp2.1/01_console.csprojAssemblyReference.cache
+/home/pavel/Documents/psu/pnp-net/01_console/obj/Debug/netcoreapp2.1/01_console.csproj.CoreCompileInputs.cache
+/home/pavel/Documents/psu/pnp-net/01_console/obj/Debug/netcoreapp2.1/01_console.AssemblyInfoInputs.cache
+/home/pavel/Documents/psu/pnp-net/01_console/obj/Debug/netcoreapp2.1/01_console.AssemblyInfo.cs
+/home/pavel/Documents/psu/pnp-net/01_console/obj/Debug/netcoreapp2.1/01_console.dll
+/home/pavel/Documents/psu/pnp-net/01_console/obj/Debug/netcoreapp2.1/01_console.pdb
